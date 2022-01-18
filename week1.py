@@ -1,7 +1,8 @@
 for x in range(10):
     print("hello world!"+ str(x))
-variable = 1
+variable = 7
 print(variable)
 list = [variable,1 ,2]
 print(list[1])
 print(list[0])
+print(list)
