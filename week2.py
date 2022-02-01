@@ -6,4 +6,4 @@ print(Places)#prints in original state to show not permanently sorted
 Places.reverse()#Reverses the original list
 print(Places)#Prints the list now reversed
 Places.reverse()#Reverses the list to the original
-print(Places)#Prints the list reversed again
+print(Places)#Prints the list reversed again 
